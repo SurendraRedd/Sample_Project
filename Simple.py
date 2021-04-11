@@ -6,3 +6,12 @@ print(os.getcwd())
 
 print('sort the list :', sorted(list1))
 
+print(list1[0:])
+
+print(list1[:-1])
+
+list1.append(8)
+
+print(list1)
+
+print(sorted(list1))
